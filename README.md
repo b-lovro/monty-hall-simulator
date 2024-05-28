@@ -13,8 +13,6 @@ This project provides a Python simulation of the Monty Hall problem using PySimp
 - Interactive simulation of the Monty Hall problem.
 - Graphical interface using PySimpleGUI.
 - Visualization of game results over multiple iterations.
-- Easy to start a new game or exit the application.
-- Base64 encoded images are used for the doors to ensure the application is self-contained.
 
 ## Installation
 
